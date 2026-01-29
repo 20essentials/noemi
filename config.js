@@ -1,0 +1,23 @@
+export const nameBand = 'NOEMI';
+export const nameSongs = [
+	"L'AMORE ETERNIT", /*1*/
+	"MAKUMBA", /*2*/
+	"GLICINE", /*3*/
+	"L'AMORE SI ODIA", /*4*/
+	"SONO SOLO PAROLE", /*5*/
+	"PER TUTTA LA VITA", /*6*/
+	"NON SMETTERE MAI DI CERCARMI", /*7*/
+	"TI AMO NON LO SO DIRE", /*8*/
+	"BAGNATI DAL SOLE", /*9*/
+	"I MIEI RIMEDI", /*10*/
+	"BRICIOLE", /*11*/
+	"AUTUNNO", /*12*/
+	"LA BORSA DI UNA DONNA", /*13*/
+	"AMEN", /*14*/
+	"PORCELLANA", /*15*/
+	"FAMMI RESPIRARE DAI TUOI OCCHI", /*16*/
+	"NON HO BISOGNO DI TE", /*17*/
+	"SE T'INNAMORI MUORI", /*18*/
+	"DON'T GET ME WRONG", /*19*/
+	"POI INVENTI IL MODO", /*20*/
+]
